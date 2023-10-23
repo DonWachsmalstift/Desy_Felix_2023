@@ -1,3 +1,18 @@
+Samples:
+FMue-1 SBa200 10 wt.% Co
+FMue-2 SBa200 20 wt.% Co
+FMue-3 SBa150 10 wt.% Co
+FMue-4 SBa150 20 wt.% Co
+FMue-5 SBa90 10 wt.% Co
+FMue-6 SBa90 20 wt.% Co
+FMue-7 TH100/150 10 wt.% Co
+FMue-8 TH100/150 20 wt.% Co
+FMue-9 SB (boehmite) 10 wt.% Co
+FMue-10 SB (boehmite) 20 wt.% Co
+
+
+
+
 The Setup was done at ~12:00
 we had to wait for the safety guy to show up until 16:00 tho
 
