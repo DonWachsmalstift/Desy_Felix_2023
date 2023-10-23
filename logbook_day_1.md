@@ -31,4 +31,3 @@ He will be flushed for 15 minutes.
 scann number 550 reach 350°C.
 H2 start to flow with scann number 564.
 
-
