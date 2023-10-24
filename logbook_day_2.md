@@ -14,3 +14,7 @@ we still moved all the measured stuff into an "old_setup" folder and will now pu
 
 ###
 12:09 we started again to heat FMue-2 to 350 with He flow
+12:55 starting pure hydrogen flow 7.5 ml/min
+13:18 we do not see any obvious changes anymore in the xrd gonna wait for 10 more minutes
+13:42 nothing is changing anylonger
+gonna heat up to 450 °C (10° / min) with He flow and go on with reduction
