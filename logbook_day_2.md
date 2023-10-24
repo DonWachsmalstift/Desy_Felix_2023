@@ -23,3 +23,8 @@ gonna heat up to 450 °C (10° / min) with He flow and go on with reduction
 Co peaks forming slowly, e.g. at 3.75 A
 
 15:50 we found the laptop turned it self off and the connection failed...
+MFC's were turned off, heating was going on
+Co reoxidized tho
+canceling experiment at this point in time
+
+Realligning beamstop since its not perfectly centered
