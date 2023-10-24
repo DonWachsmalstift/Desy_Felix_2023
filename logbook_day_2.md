@@ -28,3 +28,18 @@ Co reoxidized tho
 canceling experiment at this point in time
 
 Realligning beamstop since its not perfectly centered
+###
+
+**empty capillary**
+16:39 10 images a 30s 
+
+**LaB6**
+also realligning the Y-Position = 250.554
+16:56 10 images a 30s
+
+
+**Si**
+17:08 10 images a 30s
+
+**empty heatcell**
+17:20 10 images a 30s 
