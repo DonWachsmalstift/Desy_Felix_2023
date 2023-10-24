@@ -78,5 +78,5 @@ the reduction seems to be really fast:
 
 The reduction run for 2h, at 23:50 we started the ramp untill 450°C (scan 711).
 scann 732 reach 450°C.
-
+E
 
