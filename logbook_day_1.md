@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+=======
+Samples:
+FMue-1 SBa200 10 wt.% Co
+FMue-2 SBa200 20 wt.% Co
+FMue-3 SBa150 10 wt.% Co
+FMue-4 SBa150 20 wt.% Co
+FMue-5 SBa90 10 wt.% Co
+FMue-6 SBa90 20 wt.% Co
+FMue-7 TH100/150 10 wt.% Co
+FMue-8 TH100/150 20 wt.% Co
+FMue-9 SB (boehmite) 10 wt.% Co
+FMue-10 SB (boehmite) 20 wt.% Co
+
+
+>>>>>>> d8537f56d16f7e8cedfc7771be53428517c862cb
 
 **23.10.2023 first day**
 
@@ -56,6 +72,10 @@ The cells looked tight (He flow 32.5 ml/min, we tested also with the detector).
 Set a ramo until 450°C for the calcination.
 The thermocouple is not in the correct position. I stopped the mesurements
 We start again the measurement by using a ramp of 10°C/min (time 8:17 folder: FMue_2_second_run)
+Thermocouple doesnt recognize any Temperature
+Cancelled at 08:32
 
 
-
+**FMue-2**
+Started the measurement at 8:52
+nothing changed only the wire was a bit loose at the connecting luster terminal
