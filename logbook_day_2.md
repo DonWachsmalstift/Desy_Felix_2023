@@ -72,7 +72,7 @@ ramp to 350°C Started at scann 439.
 H2 start to flush at 21:40 scann number 451.
 the reduction seems to be really fast:
 <div style="text-align:center">
-    <img src="./images/FMue_3.png" alt="plot of reduction data set" style =width:75%>
+    <img src="./images/FMue_3_.png" alt="plot of reduction data set" style =width:75%>
     <p><em>Figure 1: Screenshot of FMue_3 first reduction (peak at 4.2)</em></p>
 </div>
 
