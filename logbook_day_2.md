@@ -43,3 +43,6 @@ also realligning the Y-Position = 250.554
 
 **empty heatcell**
 17:20 10 images a 30s 
+
+**FMue 3**
+17:46 the sample is in and we had a flow of 33.7 of He. Flow changed when putting onn the Heatshield, this was fixed when screwing tight the moveable arme (where the capillary and the thermal controller are in).
