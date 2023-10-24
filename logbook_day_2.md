@@ -46,3 +46,4 @@ also realligning the Y-Position = 250.554
 
 **FMue 3**
 17:46 the sample is in and we had a flow of 33.7 of He. Flow changed when putting onn the Heatshield, this was fixed when screwing tight the moveable arme (where the capillary and the thermal controller are in).
+17:53 measurement started, 17:54 temp ramp started 5° / min and Airflow or 3ml/min
