@@ -67,3 +67,16 @@ Temperature is quite stable right now with only ~60% power of the Eurotherm at 4
 600 °C should therefore be possible if required
 
 
+Start to flush He at 21:17 (scann 406).
+ramp to 350°C Started at scann 439.
+H2 start to flush at 21:40 scann number 451.
+the reduction seems to be really fast:
+<div style="text-align:center">
+    <img src="./images/FMue_3.png" alt="plot of reduction data set" style =width:75%>
+    <p><em>Figure 1: Screenshot of FMue_3 first reduction (peak at 4.2)</em></p>
+</div>
+
+The reduction run for 2h, at 23:50 we started the ramp untill 450°C (scan 711).
+scann 732 reach 450°C.
+
+
