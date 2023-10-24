@@ -18,3 +18,4 @@ we still moved all the measured stuff into an "old_setup" folder and will now pu
 13:18 we do not see any obvious changes anymore in the xrd gonna wait for 10 more minutes
 13:42 nothing is changing anylonger
 gonna heat up to 450 °C (10° / min) with He flow and go on with reduction
+13:03 450°C reached, switching to H2 flow 7.5 ml/min, image 227
