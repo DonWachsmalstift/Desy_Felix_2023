@@ -5,3 +5,4 @@ Started the measurement at 8:52
 nothing changed only the wire was a bit loose at the connecting luster terminal
 
 10:35 starting cooling down to 350 °C
+350 reached at 10:53 (frame 242), then starting flushing with He for 15 minutes 
