@@ -31,3 +31,31 @@ He will be flushed for 15 minutes.
 scann number 550 reach 350°C.
 H2 start to flow with scann number 564.
 
+The reduction is quite slow, the peaks around 2.9 and 4.25 &#8491;<sup>-1</sup> are changing after 1h of reaction.
+After 2h of reduction only CoO is formed and the intensity of the peak at 2.9 &#8491;<sup>-1</sup> reached a plateu value. Nothing is changed for 1 and an half hour.
+
+We decide to put 450°C. From scann 828 we are heating with a ramp of 10°C/min untill 450°C.
+The idea is to see if we can detect the reduction of CoO to Co.
+
+The temperature is reached at scann 847.
+The peak at 3.5 &#8491;<sup>-1</sup> is increasing --> Co is forming.
+
+The reaction is really slow, we can reduced the time of the first reduction, but the second step seems to be quite slow.
+
+We have to decide how to proceed.
+We can just do the entire reduction at 450°C and hope that we will see a two step process, otherwise we can just do a fast reduction at 350°C (around 1h) and go immediately to 450 for the second step.
+In case we want to do the second way, it is probably usefull to decide which sample we really need to measure.
+We can also think to calcine for lower time, from the data seems that the calcination is over avter 1.5h.
+
+We start to flush He before stopping the measurement (scann 1103 time 5:44). Stop the temperature (scann 1106).
+
+
+**FMue-2**
+Started the measurement at 6:25.
+The cells looked tight (He flow 32.5 ml/min, we tested also with the detector).
+Set a ramo until 450°C for the calcination.
+The thermocouple is not in the correct position. I stopped the mesurements
+We start again the measurement by using a ramp of 10°C/min (time 8:17 folder: FMue_2_second_run)
+
+
+
