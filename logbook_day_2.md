@@ -26,7 +26,10 @@ Co peaks forming slowly, e.g. at 3.75 A
 MFC's were turned off, heating was going on
 Co reoxidized tho
 canceling experiment at this point in time
-
+<div style="text-align:center">
+    <img src="./images/FMue_2_reduction.png" alt="plot of reduction data set" style =width:75%>
+    <p><em>Figure 1: Screenshot of Synoptic overview</em></p>
+</div>
 Realligning beamstop since its not perfectly centered
 ###
 
