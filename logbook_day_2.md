@@ -1,3 +1,13 @@
+# Integrating data
+use the json config file called "second_config_averaged.json" in /processed/
+we created a new poni with LaB6, which was averaged over a 5 minute measurement, and a new mask
+
+after integration you can move all the integrated .dat files with the command line "mv *.dat ../../processed/FMue_XX" while you are in the directory of the processed files
+
+moving integrated files after FileZilla into this folder for plotting, makes it easier for later understanding when back in AquisGranaPadano
+right now i have them in ./Desy_processed/
+
+### Logbook 2
 Just started FMue-2 third run and opened a new Logbook for the second day + night shift
 
 **FMue-2**
@@ -52,3 +62,8 @@ also realligning the Y-Position = 250.554
 17:53 measurement started, 17:54 temp ramp started 5° / min and Airflow or 3ml/min
 
 19:24 (frame 180) 450°C were reached.
+
+Temperature is quite stable right now with only ~60% power of the Eurotherm at 450 °C
+600 °C should therefore be possible if required
+
+
