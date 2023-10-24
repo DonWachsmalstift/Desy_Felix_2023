@@ -19,3 +19,5 @@ we still moved all the measured stuff into an "old_setup" folder and will now pu
 13:42 nothing is changing anylonger
 gonna heat up to 450 °C (10° / min) with He flow and go on with reduction
 14:03 450°C reached, switching to H2 flow 7.5 ml/min, image 227
+14:13 no big changes visible in the XRDs
+Co peaks forming slowly, e.g. at 3.75 A
