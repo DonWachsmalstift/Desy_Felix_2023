@@ -21,4 +21,4 @@ Air flow of 3.5 ml/min
 
 reached 450°C at 12:53
 at 13:59 (frame 300) we started to coole down to 350 °C in 20°C per min. and turned the He on (frame 301). 
-we reached 350°C at  (frame 
+we reached 350°C at   14:04 (frame 309). 
