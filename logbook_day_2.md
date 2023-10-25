@@ -77,6 +77,67 @@ the reduction seems to be really fast:
 </div>
 
 The reduction run for 2h, at 23:50 we started the ramp untill 450°C (scan 711).
+
 scann 732 reach 450°C.
-E
+
+The reduction is still really slow, after 2h it didn't reach the plateau.
+
+Scann1028 is the last scann at 450°C, we set a ramp untill 600°C (time 02:30).
+
+The thermal controller is at 100% of the power and the temperature in the cell is of 490°C.
+
+We decided to stop (scann 1079) and continue with the next sample.
+
+He started to flush from scann 1075
+
+**FMue 4**
+
+Start the measurement at 3:17, the sistem was immidately tight again, we are the fucking boss (magic hands).
+
+Ramp start at 3:18 (scann 1).
+
+The analysis was stopped, problem with the thermocouple and the MFCs.
+
+we are not understanding why for He and Air we are not able to reach 100% of the flow but only oround 60%.
+
+We are running the experiment by starting directly at 450°C since the calcination was basically done (see fig below).
+<div style="text-align:center">
+    <img src="./images/FMue_4_calcination.PNG" alt="plot of reduction data set" style =width:75%>
+    <p><em>Figure 1: Screenshot of FMue_4 calcination (first run peak at 0.8)</em></p>
+</div>
+
+The MFC for air is not going above 65-70%.
+
+We decided to run the experiment in any case.
+
+The flow is decreasing constantly, according to Wikipedia it can be a low pressure from the gas bottle.
+
+We reset the MFCs at scann 30.
+
+The problem still be present.
+
+The flow is constantly decreasing.
+
+We decided to start woth H2 after approximately 1h.
+He is started to flush at scann 106 (6:07) and the ramp to 350 start.
+
+350°C reach at scann 127.
+
+H2 start to flush at scann 138 (6:22).
+
+The MFC's problem should be related to the air and He line, the H2 flow is constant at 100%.
+
+The major problem is on the Air line because the flow decrease untill 33%, while He was kind of constant around 70%.
+
+Start the ramp to 450°C at 6:55 (scann 202).
+450°C reached at scann 227.
+
+
+
+
+
+
+
+
+
 
