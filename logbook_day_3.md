@@ -38,5 +38,3 @@ When we normalize the Y values (Intensities) the kinetics look a bit smoother
 we need to do this since the beam had lost intensity after the beamdump and the diagram looks like someone did not wash his ass today
 
 
-
-15:38 (image 499) we put He on and start heating to 450, peak positions are all the same shouldnt have hapenned anything in the sample during beamdump
