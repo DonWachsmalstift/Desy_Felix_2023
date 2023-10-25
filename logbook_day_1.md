@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 Samples:
 FMue-1 SBa200 10 wt.% Co
 FMue-2 SBa200 20 wt.% Co
@@ -13,7 +11,6 @@ FMue-9 SB (boehmite) 10 wt.% Co
 FMue-10 SB (boehmite) 20 wt.% Co
 
 
->>>>>>> d8537f56d16f7e8cedfc7771be53428517c862cb
 
 **23.10.2023 first day**
 
