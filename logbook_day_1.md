@@ -12,6 +12,9 @@ Samples:\
 
 every capillary was filled with 5 mg of powder which a grainsize of 100 - 200 um
 
+Wavelength 0.20733 A
+Energy 59.80075
+
 
 **23.10.2023 first day**
 Beamsize 1mm = could result in a high Qdamp
