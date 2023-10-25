@@ -46,5 +46,6 @@ still no 600°C we stop the measurement
 
 20:01 reached 450°C: Frame 175 maybe
 
-
+21:07 we start lowering the temp and flush with He 30 ml/min 10°/min
+image 311
 
