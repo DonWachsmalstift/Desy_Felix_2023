@@ -41,3 +41,7 @@ we need to do this since the beam had lost intensity after the beamdump and the 
 turned on He
 still no 600°C we stop the measurement
 
+**FMue_8
+18:32 start of measurement + heat 450°C 5°/min and airflow 3.5 ml/min
+
+
