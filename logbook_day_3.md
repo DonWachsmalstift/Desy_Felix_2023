@@ -37,4 +37,7 @@ we started the H at 14:14 (frame 329) ca. 8 ml/min
 When we normalize the Y values (Intensities) the kinetics look a bit smoother
 we need to do this since the beam had lost intensity after the beamdump and the diagram looks like someone did not wash his ass today
 
+18:07 we ramp up to 600° 20°/min (image 795)
+turned on He
+still no 600°C we stop the measurement
 
