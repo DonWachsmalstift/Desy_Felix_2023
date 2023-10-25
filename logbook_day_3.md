@@ -48,4 +48,5 @@ still no 600°C we stop the measurement
 
 21:07 we start lowering the temp and flush with He 30 ml/min 10°/min
 image 311
+21:23 image 343 H2 flow 8 ml/min
 
