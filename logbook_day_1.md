@@ -12,7 +12,7 @@ Samples:\
 
 
 **23.10.2023 first day**
-
+Beamsize 1mm = could result in a high Qdamp
 The Setup was done at ~12:00
 we had to wait for the safety guy to show up until 16:00 tho
 
