@@ -18,4 +18,5 @@ Y-Position checked and its still fine
 Measurement started at 11:29
 Heating to 450 °C with 5°/min
 Air flow of 3.5 ml/min
+reached 450°C at 12:53
 
