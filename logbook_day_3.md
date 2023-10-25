@@ -24,3 +24,6 @@ reached 450°C at 12:53
 at 13:59 (frame 300) we started to coole down to 350 °C in 20°C per min. and turned the He (34 ml/min) on (frame 301). 
 we reached 350°C at   14:04 (frame 309). 
 we started the H at 14:14 (frame 329) ca. 8 ml/min
+14.45 (image 390) Beamdump, we started He flushing as soon as we noticed and leave temperature and measurements going
+15:16 (image 454) Beam is BACKBABY but Ion chamber is not completly back (so lower intensity in images)
+
