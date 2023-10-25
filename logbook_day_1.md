@@ -10,6 +10,8 @@ Samples:\
 - FMue-9 SB (boehmite) 10 wt.% Co\
 - FMue-10 SB (boehmite) 20 wt.% Co
 
+every capillary was filled with 5 mg of powder which a grainsize of 100 - 200 um
+
 
 **23.10.2023 first day**
 Beamsize 1mm = could result in a high Qdamp
