@@ -50,6 +50,7 @@ gonna wait for 60 mins and then go up to T max.
 
 **MNZ-22**
 18:38 measurement started with Airflow 3 ml/min heatramp to 450 °C 5°/min
+20:02 reached 450 °C
 
 
 
