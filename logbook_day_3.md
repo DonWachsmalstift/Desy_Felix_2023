@@ -78,3 +78,12 @@ Calcination seems done after 1h
 we gonna flush with He and go up to 450 °C with 10°/min (image 446)
 11:35 we start H2 8 ml/min (image 480)
 12:49 the reductions seems nearly done, way faster then for other samples
+13:07 we started He flushing because we reached the plateu
+13:08 we stop the measurement
+
+
+**SB**
+Test at 13:22
+we have full flow of He even though the powder is very fine grained and was not sieved
+Temperature File for all Supports is called Alox
+13:25 we start measurement and heatramp to 450 °C 5°/min Airflow of 3 ml/min
