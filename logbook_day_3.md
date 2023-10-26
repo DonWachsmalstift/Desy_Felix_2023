@@ -71,6 +71,8 @@ We started to flush He at scann 649 (7:07).
 **FMue 10**
 Started at 7:35.
 Ramp to 450°C started with scann 3.
+Calcination seems done after 1h
+10:23 He flushing and Ramp to 350°C with 10°/min started
 
 
 
