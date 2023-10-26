@@ -34,5 +34,13 @@ gonna wait for 60 mins and then go up to T max.
 
 **SBa200**
 16:05 measurement started with Air Heatramp 20°/min to 450
+16:27 stopped
+
+**TH100/150**
+16:54 measurement started with Air Heatramp 20°/min to 450
+17:15 stopped
+
+**SBa150**
+17:26 measurement started with Air Heatramp 20°/min to 450
 
 
