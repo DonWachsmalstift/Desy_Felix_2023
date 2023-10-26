@@ -29,6 +29,10 @@ Temperature File for all Supports is called Alox
 13:25 we start measurement and heatramp to 450 °C 5°/min Airflow of 3 ml/min
 
 14:49 450°C reached, xrd looks like gamma alumina
-gonna wait for a bit and then go up to T max. 
+gonna wait for 60 mins and then go up to T max. 
+15:49 measurement stopped
+
+**SBa200**
+16:05 measurement started with Air Heatramp 20°/min to 450
 
 
