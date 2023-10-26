@@ -87,3 +87,5 @@ Test at 13:22
 we have full flow of He even though the powder is very fine grained and was not sieved
 Temperature File for all Supports is called Alox
 13:25 we start measurement and heatramp to 450 °C 5°/min Airflow of 3 ml/min
+14:49 450°C reachead, xrd looks like gamma alumina
+gonna wait for a bit and then go up to max T
