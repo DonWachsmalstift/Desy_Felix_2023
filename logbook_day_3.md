@@ -77,3 +77,4 @@ Calcination seems done after 1h
 11:16 Reduction was pretty much over immidiately like for the other samples
 we gonna flush with He and go up to 450 °C with 10°/min (image 446)
 11:35 we start H2 8 ml/min (image 480)
+12:49 the reductions seems nearly done, way faster then for other samples
