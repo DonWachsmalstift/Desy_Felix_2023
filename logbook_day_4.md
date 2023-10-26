@@ -42,5 +42,14 @@ gonna wait for 60 mins and then go up to T max.
 
 **SBa150**
 17:26 measurement started with Air Heatramp 20°/min to 450
+17:48 stopped
+
+**SBa90**
+17:59 measurement started with Air Heatramp 20°/min to 450
+18:22 stopped
+
+**MNZ-22**
+18:38 measurement started with Airflow 3 ml/min heatramp to 450 °C 5°/min
+
 
 
