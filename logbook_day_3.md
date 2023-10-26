@@ -73,7 +73,7 @@ Started at 7:35.
 Ramp to 450°C started with scann 3.
 Calcination seems done after 1h
 10:23 He flushing and Ramp to 350°C with 10°/min started
-
-
-
-
+10:40 H2 flushig started image (369) 8 ml/min
+11:16 Reduction was pretty much over immidiately like for the other samples
+we gonna flush with He and go up to 450 °C with 10°/min (image 446)
+11:35 we start H2 8 ml/min (image 480)
