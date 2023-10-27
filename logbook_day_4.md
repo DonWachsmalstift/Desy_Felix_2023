@@ -49,8 +49,26 @@ gonna wait for 60 mins and then go up to T max.
 18:22 stopped
 
 **MNZ-22**
-18:38 measurement started with Airflow 3 ml/min heatramp to 450 °C 5°/min
-20:02 reached 450 °C
+18:38 measurement started with Airflow 3 ml/min heatramp to 450 °C 5°/min.
+20:02 reached 450 °C.
+Start to flush He at 22:04 scann 412.
+Start H2 at 22:19 scann 441.
+Start to flush He at 00:37 scann 717.
+
+**FMue 1 new**
+Start measurement at 1:12, we have to hurry up so the ramp to 450°C is set to be 10°C/min.
+We had to stop immidiately because the temperatrure did not increase.
+Problem in the connection of the wires, we fixed it but the capillary was broken.
+
+**FMue 2 calcination**
+Start at 1:45.
+Reach 450°C at scann 169 (3:11)
+Calcination seems to be finish at 4:12 (scann 293)
+
+**FMue 1 new**
+Start measurement at 4:30, we have to hurry up so the ramp to 450°C is set to be 10°C/min.
+450°C reach at scann 83 (time 5:12).
+
 
 
 
