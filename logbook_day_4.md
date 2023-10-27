@@ -68,6 +68,18 @@ Calcination seems to be finish at 4:12 (scann 293)
 **FMue 1 new**
 Start measurement at 4:30, we have to hurry up so the ramp to 450°C is set to be 10°C/min.
 450°C reach at scann 83 (time 5:12).
+Calcination is over at 5:48 scann 155, start to flushing He.
+Start a ramp to 350°C (scann 157).
+350°C reach at scann 166.
+H2 start to flow at scann 173 (time 5:57)
+The reduction is done in 20 minutes (scann 219), we started the ramp to 450°C.
+Reach 450°C at 6:31 (scann 240).
+The reaction was done at 7:48, scan 395. 
+Start to flush He at scann 398.
+
+
+
+
 
 
 
